@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GithubSearchApps</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_search">Search</string>
+    <string name="text_hint_searchgithub">Cari Pengguna Github..</string>
+    <string name="text_notfound">Tidak ada data pencarian</string>
+    <string name="text_error_server">Terjadi kesalahan pada server, Mohon menunggu beberapa saat lagi</string>
+    <string name="text_username">Username</string>
+    <string name="text_profilelink">Profile Link</string>
+
+</resources>
